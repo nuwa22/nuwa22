@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Suresh Nuwan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer...;Font%20End-eveloper...;and;Graphic%20Designer...;from;Sri%20Lanka;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer...;Python%20Developer...;AI/ML%20Enthusiast...;Graphic%20Designer...;from;Sri%20Lanka;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwa22&label=Profile%20views&color=0e75b6&style=flat" alt="nuwa22" /> </p>
 
@@ -11,15 +11,17 @@
 <h3 align="center" > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>About me</h3>
 <br>
 
-- 🌱 I’m currently learning **React and UI/UX Design**
+- 🎓 Undergraduate at KIU
 
-- 🧑‍🎓 I’m an Undergraduate at KIU
+- 🐍 Currently focusing on **Python Development**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/sureshnuwan](https://www.behance.net/sureshnuwan)
+- 🤖 Learning **Artificial Intelligence & Machine Learning**
 
-- 📫 How to reach me **snt4800suresh@gmail.com**
+- 🎨 Creative Web Developer & Graphic Designer
 
-- ⚡ Fun fact **Call me as Nuwa**
+- 📫 Reach me at: **snt4800suresh@gmail.com**
+
+- ⚡ Fun fact: Call me **Nuwa**
 
 <br>
 <!--- stats & Trophy (start) -->
@@ -48,12 +50,12 @@
 
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/nuwa0823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwa0823" height="40" width="40" /></a>
-<a href="https://fb.com/nuwa2223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwa2223" height="40" width="40" /></a>
-<a href="https://instagram.com/nuwa08_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwa08_23" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nuwa0822/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwa0823" height="40" width="40" /></a>
+<a href="https://www.facebook.com/sureshNuwan22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwa2223" height="40" width="40" /></a>
+<a href="https://instagram.com/nuwa08_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwa08_23" height="40" width="40" /></a>
 <a href="https://www.behance.net/sureshnuwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sureshnuwan" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/nuwa_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwa_23" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/snt4800nuwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snt4800nuwa" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@taprobane_tales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwa_23" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/snt4800suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snt4800nuwa" height="40" width="40" /></a>
 </p>
 <br>
 
